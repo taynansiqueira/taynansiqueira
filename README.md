@@ -9,8 +9,7 @@
 </br>
 
 
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taynan-siqueira-0018491b5/)
-[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/t.martins.s/)
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taynan-siqueira-516066289/)
 
 ![Taynan GitHub stats](https://github-readme-stats.vercel.app/api?username=taynansiqueira&show_icons=true&theme=codeSTACKr)
 
