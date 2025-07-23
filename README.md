@@ -18,7 +18,6 @@
 <img style="float: right; position: absolute;"  src="https://komarev.com/ghpvc/?username=taynansiqueira&color=blue&style=plastic"> 
 
 </br>
-Tecnologias que estou estudando
 
 Um cara apaixonado por economia e mercado financeiro.
 </DIV>
