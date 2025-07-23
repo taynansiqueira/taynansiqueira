@@ -17,7 +17,8 @@
 <img style="float: right; position: absolute;"  src="https://komarev.com/ghpvc/?username=taynansiqueira&color=blue&style=plastic"> 
 
 </br>
-
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
 Um cara apaixonado por economia e mercado financeiro.
 </DIV>
 </DIV>
